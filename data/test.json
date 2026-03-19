@@ -1,0 +1,230 @@
+[
+  {
+    "audio": "../voice dataset/useful systemai testing/lipä.wav",
+    "text": "lipä",
+    "id": "utt0181",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/others/bër.wav",
+    "text": "bër",
+    "id": "utt0087",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/useful systemai testing/garɛ.wav",
+    "text": "garɛ",
+    "id": "utt0172",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/days and time/ɛ_wäär.wav",
+    "text": "ɛ wäär",
+    "id": "utt0040",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/useful systemai testing/bër_ruacnɛ.wav",
+    "text": "bër ruacnɛ",
+    "id": "utt0160",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/others/ciek.wav",
+    "text": "ciek",
+    "id": "utt0088",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/useful systemai testing/kua̱cä_jɛ.wav",
+    "text": "kua̱cä jɛ",
+    "id": "utt0176",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_ba̱kɛliɛn_kä_juɔk.wav",
+    "text": "ɛn walɛ ɛ cäŋ in ba̱kɛliɛn kä juɔk",
+    "id": "utt0041",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/commands/bitni̱.wav",
+    "text": "bitni̱",
+    "id": "utt0002",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/greetings and intro/maalɛ_mi̱_di̱i̱t.wav",
+    "text": "maalɛ mi̱ di̱i̱t",
+    "id": "utt0072",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/questions/ti̱i̱_kɛ_run_da̱ŋ_di̱.wav",
+    "text": "ti̱i̱ kɛ run da̱ŋ di̱",
+    "id": "utt0151",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/personal needs/ci̱_buɔthä_näk.wav",
+    "text": "ci̱ buɔthä näk",
+    "id": "utt0115",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/greetings and intro/ci̱_nɛy_baak_kɛ_mal.wav",
+    "text": "ci̱ nɛy baak kɛ mal",
+    "id": "utt0057",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/others/wum.wav",
+    "text": "wum",
+    "id": "utt0108",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/useful systemai testing/latdɛ_ɛnyɔk.wav",
+    "text": "latdɛ ɛnyɔk",
+    "id": "utt0179",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/greetings and intro/ci̱_baak.wav",
+    "text": "ci̱ baak",
+    "id": "utt0051",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/questions/ɣän.wav",
+    "text": "ɣän",
+    "id": "utt0144",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/useful systemai testing/nyamɛ.wav",
+    "text": "nyamɛ",
+    "id": "utt0186",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/weather and environment/lɛp_cieŋ.wav",
+    "text": "lɛp cieŋ",
+    "id": "utt0155",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/questions/ɛ_leŋuän_ɛn_nɔmɔ.wav",
+    "text": "ɛ leŋuän ɛn nɔmɔ",
+    "id": "utt0130",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/greetings and intro/ci̱_thiaŋ_kɛ_mal.wav",
+    "text": "ci̱ thiaŋ kɛ mal",
+    "id": "utt0060",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/greetings and intro/ci̱_buut_kɛ_mal.wav",
+    "text": "ci̱ buut kɛ mal",
+    "id": "utt0056",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/common objects/kämni̱_ɣä_talɛpoon.wav",
+    "text": "kämni̱ ɣä talɛpoon",
+    "id": "utt0024",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/commands/jiɛc_rɔ_du.wav",
+    "text": "jiɛc rɔ du",
+    "id": "utt0008",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/commands/jiɛrɔ.wav",
+    "text": "jiɛrɔ",
+    "id": "utt0009",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/others/wut.wav",
+    "text": "wut",
+    "id": "utt0109",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/questions/ti̱i̱_kɛ_run_di̱.wav",
+    "text": "ti̱i̱ kɛ run di̱",
+    "id": "utt0152",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/common objects/kämni̱_ɣä_kubay.wav",
+    "text": "kämni̱ ɣä kubay",
+    "id": "utt0023",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/questions/ɛŋu_ci̱_jäny_kɛ_jɛ_mɔ.wav",
+    "text": "ɛŋu ci̱ jäny kɛ jɛ mɔ",
+    "id": "utt0140",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/useful systemai testing/ɣɔ̱ɔ̱n.wav",
+    "text": "ɣɔ̱ɔ̱n",
+    "id": "utt0174",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/common objects/kɔm_cɛ_tööl.wav",
+    "text": "kɔm cɛ tööl",
+    "id": "utt0027",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/days and time/ɛ_cäŋkä_di̱_ɛn_walɛ.wav",
+    "text": "ɛ cäŋkä di̱ ɛn walɛ",
+    "id": "utt0036",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/greetings and intro/ci̱_thiaŋ.wav",
+    "text": "ci̱ thiaŋ",
+    "id": "utt0058",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/greetings and intro/cia_baak_kɛ_mal.wav",
+    "text": "cia baak kɛ mal",
+    "id": "utt0063",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/greetings and intro/maalɛ_kɛ_run_waŋ.wav",
+    "text": "maalɛ kɛ run waŋ",
+    "id": "utt0071",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/commands/jiɛc_rɔ.wav",
+    "text": "jiɛc rɔ",
+    "id": "utt0007",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/common objects/meni̱_ɣä_ka̱m_kubay.wav",
+    "text": "meni̱ ɣä kam kubay",
+    "id": "utt0029",
+    "duration": 5.0
+  },
+  {
+    "audio": "../voice dataset/useful systemai testing/cɛ_thuuk.wav",
+    "text": "cɛ thuuk",
+    "id": "utt0164",
+    "duration": 5.0
+  }
+]

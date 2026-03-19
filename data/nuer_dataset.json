@@ -1,0 +1,2634 @@
+[
+  {
+    "id": "utt0001",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/bër_gua̱mɛ.wav",
+    "text": "bër gua̱mɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0002",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/bitni̱.wav",
+    "text": "bitni̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0003",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/ɛŋu_ci̱_bit_ɔ.wav",
+    "text": "ɛŋu ci̱ bit ɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0004",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/gäk_bap.wav",
+    "text": "gäk bap",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0005",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/gäk_ka̱ra̱bɛ.wav",
+    "text": "gäk ka̱ra̱bɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0006",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/gäk_wernyin.wav",
+    "text": "gäk wernyin",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0007",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/jiɛc_rɔ.wav",
+    "text": "jiɛc rɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0008",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/jiɛc_rɔ_du.wav",
+    "text": "jiɛc rɔ du",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0009",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/jiɛrɔ.wav",
+    "text": "jiɛrɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0010",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/jiɛrɔdu.wav",
+    "text": "jiɛrɔdu",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0011",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/lɛp_bap.wav",
+    "text": "lɛp bap",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0012",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/lɛp_wernyin.wav",
+    "text": "lɛp wernyin",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0013",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/nyuri̱.wav",
+    "text": "nyuri̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0014",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/nyuri̱_piny.wav",
+    "text": "nyuri̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0015",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/wër_gua̱mɔ.wav",
+    "text": "wër gua̱mɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0016",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/wër_gua̱mi̱.wav",
+    "text": "wër guami̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0017",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/commands/wër_raar.wav",
+    "text": "wër raar",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0018",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/bɛ̈k_jani̱.wav",
+    "text": "bɛ̈k jani̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0019",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/cɛ_tööl_ɛn_kɔm.wav",
+    "text": "cɛ tööl ɛn kɔm",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0020",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/görä_pi̱w_ti̱_maathä.wav",
+    "text": "görä pi̱w ti̱ maathä",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0021",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/jani̱_ɛn_bɛ̈k.wav",
+    "text": "jani̱ ɛn bëk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0022",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/kämni̱_ɣä_kadɛ.wav",
+    "text": "kämni̱ ɣä kadɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0023",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/kämni̱_ɣä_kubay.wav",
+    "text": "kämni̱ ɣä kubay",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0024",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/kämni̱_ɣä_talɛpoon.wav",
+    "text": "kämni̱ ɣä talɛpoon",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0025",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/käni̱_kɛ_kɛn_kiyni̱.wav",
+    "text": "käni̱ kɛ kɛn kiyni̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0026",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/käni̱_kiyni̱.wav",
+    "text": "käni̱ ki̱yni̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0027",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/kɔm_cɛ_tööl.wav",
+    "text": "kɔm cɛ tööl",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0028",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/kiyni̱_käni̱_kɛ.wav",
+    "text": "kiyni̱ käni̱ kɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0029",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/meni̱_ɣä_ka̱m_kubay.wav",
+    "text": "meni̱ ɣä kam kubay",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0030",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/mocä_pi̱w.wav",
+    "text": "mocä pi̱w",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0031",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/nɛmɛ_ɛ_bok.wav",
+    "text": "ɛmɛ ɛ bok",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0032",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/nɛmɛ_ɛ_galam.wav",
+    "text": "nɛmɛ ɛ galam",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0033",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/common objects/ŋun_kubay.wav",
+    "text": "ŋun kubay",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0034",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛ_cäŋdäär.wav",
+    "text": "ɛ cäŋdäär",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0035",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛ_cäŋkä_di̱.wav",
+    "text": "ɛ cäŋkä di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0036",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛ_cäŋkä_di̱_ɛn_walɛ.wav",
+    "text": "ɛ cäŋkä di̱ ɛn walɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0037",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛ_run_waŋ.wav",
+    "text": "ɛ run waŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0038",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛ_thaa_wälkɛl.wav",
+    "text": "ɛ thaa wälkɛl",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0039",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛ_thiaŋ.wav",
+    "text": "ɛ thiaŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0040",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛ_wäär.wav",
+    "text": "ɛ wäär",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0041",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_ba̱kɛliɛn_kä_juɔk.wav",
+    "text": "ɛn walɛ ɛ cäŋ in ba̱kɛliɛn kä juɔk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0042",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_ba̱rɔwdiɛn_kä_juɔk.wav",
+    "text": "ɛn walɛ ɛ cäŋ in ba̱rɔwdiɛn kä juɔk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0043",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_dhiecdiɛn_kä_juɔk.wav",
+    "text": "ɛn walɛ ɛ cäŋ in dhiecdiɛn kä juɔk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0044",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_di̱ɔ̱ɔ̱kdiɛn_kä_juɔk.wav",
+    "text": "ɛn walɛ ɛ cäŋ in di̱ɔ̱ɔ̱kdiɛn kä juɔk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0045",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_jio̱l_kä_juɔk.wav",
+    "text": "ɛn walɛ ɛ cäŋ in ji̱o̱l kä juɔk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0046",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_ŋuandiɛn_kä_juɔk.wav",
+    "text": "ɛn walɛ ɛ cäŋ in ŋuandiɛn kä juɔk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0047",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_rɛwdɛ_kä_juɔk.wav",
+    "text": "ɛn walɛ ɛ cäŋ in rɛwdɛ kä juɔk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0048",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cä_baak_kɛ_mal.wav",
+    "text": "cä baak kɛ mal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0049",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cä_buut_kɛ_mal.wav",
+    "text": "cä buut kɛ mal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0050",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ca̱kɔ_baak_kɛ_mal.wav",
+    "text": "ca̱kɔ baak kɛ mal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0051",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ci̱_baak.wav",
+    "text": "ci̱ baak",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0052",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ci̱_baak_i̱di̱.wav",
+    "text": "ci̱ baak i̱di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0053",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ci̱_baak_kɛ_mal.wav",
+    "text": "ci baak kɛ mal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0054",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ci̱_buut.wav",
+    "text": "ci̱ buut",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0055",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ci̱_buut_i̱di̱.wav",
+    "text": "ci̱ buut i̱di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0056",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ci̱_buut_kɛ_mal.wav",
+    "text": "ci̱ buut kɛ mal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0057",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ci̱_nɛy_baak_kɛ_mal.wav",
+    "text": "ci̱ nɛy baak kɛ mal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0058",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ci̱_thiaŋ.wav",
+    "text": "ci̱ thiaŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0059",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ci̱_thiaŋ_i̱di̱.wav",
+    "text": "ci̱ thiaŋ i̱di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0060",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ci̱_thiaŋ_kɛ_mal.wav",
+    "text": "ci̱ thiaŋ kɛ mal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0061",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cia_baak.wav",
+    "text": "cia baak",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0062",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cia_baak_i̱di̱.wav",
+    "text": "cia baak i̱di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0063",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cia_baak_kɛ_mal.wav",
+    "text": "cia baak kɛ mal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0064",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cia_buut.wav",
+    "text": "cia buut",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0065",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cia_buut_i̱di̱.wav",
+    "text": "cia buut i̱di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0066",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cia_buut_kɛ_mal.wav",
+    "text": "cia buut kɛ mal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0067",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cia_thiaŋ.wav",
+    "text": "cia thiaŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0068",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cia_thiaŋ_i̱di̱.wav",
+    "text": "cia thiaŋ i̱di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0069",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/cia_thiaŋ_kɛ_mal.wav",
+    "text": "cia thiaŋ kɛ mal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0070",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/ɣänɛ_thi̱n_slow.wav",
+    "text": "ɣänɛ thi̱n",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0071",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/maalɛ_kɛ_run_waŋ.wav",
+    "text": "maalɛ kɛ run waŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0072",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/maalɛ_mi̱_di̱i̱t.wav",
+    "text": "maalɛ mi̱ di̱i̱t",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0073",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/mal_puɔ̱nydä.wav",
+    "text": "mal puɔ̱nydä",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0074",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/greetings and intro/mal_puɔ̱nydu.wav",
+    "text": "mal puɔ̱nydu",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0075",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/bädäk.wav",
+    "text": "bädäk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0076",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/bäkɛl.wav",
+    "text": "bäkɛl",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0077",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/ba̱kɛl.wav",
+    "text": "ba̱kɛl",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0078",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/bäŋuan.wav",
+    "text": "bäŋuan",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0079",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/bärɔw.wav",
+    "text": "bärɔw",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0080",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/ba̱rɔw.wav",
+    "text": "ba̱rɔw",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0081",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/dhi̱ec.wav",
+    "text": "dhiec",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0082",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/di̱ɔ̱k.wav",
+    "text": "di̱ɔ̱k",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0083",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/kɛl.wav",
+    "text": "kɛl",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0084",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/ŋuan.wav",
+    "text": "ŋuan",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0085",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/rɛw.wav",
+    "text": "rɛw",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0086",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/numbers and counting/wäl.wav",
+    "text": "wäl",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0087",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/bër.wav",
+    "text": "bër",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0088",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/ciek.wav",
+    "text": "ciek",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0089",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/ci̱o̱k.wav",
+    "text": "ci̱o̱k",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0090",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/dho̱o̱l.wav",
+    "text": "dho̱o̱l",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0091",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/duel.wav",
+    "text": "duel",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0092",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/gaat.wav",
+    "text": "gaat",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0093",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/jiath.wav",
+    "text": "jiath",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0094",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/ji̱th.wav",
+    "text": "ji̱th",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0095",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/kɔm.wav",
+    "text": "kɔm",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0096",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/ley.wav",
+    "text": "ley",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0097",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/lɛc.wav",
+    "text": "lɛc",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0098",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/mi̱.wav",
+    "text": "mi̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0099",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/miem.wav",
+    "text": "miem",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0100",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/nyal.wav",
+    "text": "nyal",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0101",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/ŋuäk.wav",
+    "text": "ŋuäk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0102",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/piw.wav",
+    "text": "piw",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0103",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/pi̱w.wav",
+    "text": "pi̱w",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0104",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/ro̱l.wav",
+    "text": "ro̱l",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0105",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/waŋ.wav",
+    "text": "waŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0106",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/wäŋ.wav",
+    "text": "wäŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0107",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/wër.wav",
+    "text": "wër",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0108",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/wum.wav",
+    "text": "wum",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0109",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/wut.wav",
+    "text": "wut",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0110",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/others/wuum.wav",
+    "text": "wuum",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0111",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/cä_cuuc.wav",
+    "text": "cä cuuc",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0112",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/cän_ji̱_liŋ.wav",
+    "text": "cän ji̱ liŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0113",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/cɔl_määthdä.wav",
+    "text": "cɔl määthdä",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0114",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/cɛ_ɣä_luaŋ.wav",
+    "text": "cɛ ɣä luaŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0115",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/ci̱_buɔthä_näk.wav",
+    "text": "ci̱ buɔthä näk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0116",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/ciëŋä_ɛn_gua̱mɛ.wav",
+    "text": "ci̱ëŋä ɛn gua̱mɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0117",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/görä_luäk.wav",
+    "text": "görä luäk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0118",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/känɛ_cop_lɔɔcdä.wav",
+    "text": "kanɛ cop lɔɔcdä",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0119",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/känɛ_we_lɔɔcdä.wav",
+    "text": "känɛ we lɔɔcdä",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0120",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/näk_buɔthä.wav",
+    "text": "näk buɔthä",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0121",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/näk_kɔ̱cä.wav",
+    "text": "näk kɔ̱cä",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0122",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/puɔndä_cɛ_li̱w.wav",
+    "text": "puɔndä cɛ li̱w",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0123",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/talɛpoondä_cɛ_li̱w.wav",
+    "text": "talɛpoondä cɛ li̱w",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0124",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/wa̱a̱_cieŋ.wav",
+    "text": "wa̱a̱ cieŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0125",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/personal needs/yɔ̱tni̱_määthdä_i̱kä.wav",
+    "text": "yɔ̱tni̱ määthdä i̱kä",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0126",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/cɛ_cop_lɔɔcdu.wav",
+    "text": "cɛ cop lɔɔcdu",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0127",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/cɛ_we_lɔɔcdu.wav",
+    "text": "cɛ cop lɔɔcdu",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0128",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛ_leŋu.wav",
+    "text": "ɛ leŋu",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0129",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛ_leŋu_ɛn_nɔmɔ.wav",
+    "text": "ɛ leŋu ɛn nɔmɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0130",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛ_leŋuän_ɛn_nɔmɔ.wav",
+    "text": "ɛ leŋuän ɛn nɔmɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0131",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛ_ŋu_ɣän_ɛn_nɔmɔ.wav",
+    "text": "ɛ ŋu ɣän ɛn nɔmɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0132",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛ_ŋuän_ɛn_nɔmɔ.wav",
+    "text": "ɛ ŋuän ɛn nɔmɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0133",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛ_thaa_di̱.wav",
+    "text": "ɛ thaa di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0134",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛ_thaa_di̱_ɛn_tää.wav",
+    "text": "ɛ thaa di̱ ɛn tää",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0135",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛŋa_cɔɔl_ji̱.wav",
+    "text": "ɛŋa cɔɔl ji̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0136",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛŋa_ci̱_yɔ̱a̱t.wav",
+    "text": "ɛŋa ci̱ yɔ̱a̱t",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0137",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛŋa_ci̱o̱t_ɔ.wav",
+    "text": "ɛŋa ci̱o̱t ɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0138",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛŋa_yɔ̱ɔ̱t_ɔ.wav",
+    "text": "ɛŋa yɔ̱ɔ̱t ɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0139",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛŋu.wav",
+    "text": "ɛŋu",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0140",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛŋu_ci̱_jäny_kɛ_jɛ_mɔ.wav",
+    "text": "ɛŋu ci̱ jäny kɛ jɛ mɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0141",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛŋu_cuyi̱_jäny_i̱nɔ.wav",
+    "text": "ɛŋu cuyi̱ jäny i̱nɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0142",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛŋu_ɛn_nɔmɔ.wav",
+    "text": "ɛŋu ɛn nɔmɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0143",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɛŋu_jäny_kɛ_ji̱_mɔ.wav",
+    "text": "ɛŋu jany kɛ ji̱ mɔ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0144",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ɣän.wav",
+    "text": "ɣän",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0145",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/jɛn.wav",
+    "text": "jɛn",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0146",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ji̱n.wav",
+    "text": "ji̱n",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0147",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/kuän_bɛ_tuak_i̱nɛy.wav",
+    "text": "kuän bɛ tuak i̱nɛy",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0148",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/liŋi̱_ɣä.wav",
+    "text": "liŋi̱ ɣä",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0149",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/lua̱kä_ji̱.wav",
+    "text": "lua̱kä ji̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0150",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/thaa_di̱_clear.wav",
+    "text": "thaa di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0151",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ti̱i̱_kɛ_run_da̱ŋ_di̱.wav",
+    "text": "ti̱i̱ kɛ run da̱ŋ di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0152",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/questions/ti̱i̱_kɛ_run_di̱.wav",
+    "text": "ti̱i̱ kɛ run di̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0153",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/weather and environment/dɛmɛ_ɛn_tää.wav",
+    "text": "dɛmɛ ɛn tää",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0154",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/weather and environment/dɛmɛ_ɛn_tämɛ.wav",
+    "text": "dɛmɛ ɛn tämɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0155",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/weather and environment/lɛp_cieŋ.wav",
+    "text": "lɛp cieŋ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0156",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/weather and environment/nhial_dɛmɛ.wav",
+    "text": "nhial dɛmɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0157",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/weather and environment/nhial_dɛmɛ_ɛn_tämɛ.wav",
+    "text": "nhial dɛmɛ ɛn tämɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0158",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/weather and environment/raar_kɔ̱cɛ.wav",
+    "text": "raar kɔ̱cɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0159",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/bër_can_ruac.wav",
+    "text": "bër can ruac",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0160",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/bër_ruacnɛ.wav",
+    "text": "bër ruacnɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0161",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/cä_nhɔk.wav",
+    "text": "cä nhɔk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0162",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/caa_jɛn.wav",
+    "text": "caa jɛn",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0163",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/cɛ_thuɔ̱k.wav",
+    "text": "cɛ thuɔ̱k",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0164",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/cɛ_thuuk.wav",
+    "text": "cɛ thuuk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0165",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/Ci̱_lɔcdä_tɛɛth.wav",
+    "text": "ci̱ lɔcdä tɛɛth",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0166",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/ci̱_wedi̱.wav",
+    "text": "ci̱ wedi̱",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0167",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/ciek_ɛmɛ.wav",
+    "text": "ciek ɛmɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0168",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/ëëy.wav",
+    "text": "ëëy",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0169",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/ɛ_thuɔ̱k.wav",
+    "text": "ɛ thuɔ̱k",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0170",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/ɣää.wav",
+    "text": "ɣää",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0171",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/ganmaa.wav",
+    "text": "ganmaa",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0172",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/garɛ.wav",
+    "text": "garɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0173",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/gayiɛn.wav",
+    "text": "gayiɛn",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0174",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/ɣɔ̱ɔ̱n.wav",
+    "text": "ɣɔ̱ɔ̱n",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0175",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/ko_päl.wav",
+    "text": "ko_päl",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0176",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/kua̱cä_jɛ.wav",
+    "text": "kua̱cä jɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0177",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/kua̱jɛ.wav",
+    "text": "kua̱jɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0178",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/larɛ_ɛnyɔk.wav",
+    "text": "larɛ ɛnyɔk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0179",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/latdɛ_ɛnyɔk.wav",
+    "text": "latdɛ ɛnyɔk",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0180",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/liŋi̱_ɣä_ɛn_tää.wav",
+    "text": "liŋi̱ ɣä ɛn tää",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0181",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/lipä.wav",
+    "text": "lipä",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0182",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/locɛ.wav",
+    "text": "locɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0183",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/ma̱a̱h_bër_liŋ_nɛmɛ.wav",
+    "text": "ma̱a̱ bër liŋ nɛmɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0184",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/ma̱a̱h_ji̱n.wav",
+    "text": "ma̱a̱ ji̱n",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0185",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/nhɔakä_jɛ.wav",
+    "text": "nhɔakä jɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0186",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/nyamɛ.wav",
+    "text": "nyamɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0187",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/nyɔkɛ_kɛ_luɔ̱c.wav",
+    "text": "nhɔkɛ kɛ luɔ̱c",
+    "duration": 5.0,
+    "sample_rate": 48000
+  },
+  {
+    "id": "utt0188",
+    "speaker": "buay1",
+    "metadata": {
+      "gender": "m",
+      "age": 20,
+      "accent": "gajaak",
+      "rec_device": "BuayCtrlz DELL Laptop"
+    },
+    "audio": "../voice dataset/useful systemai testing/wurɛ.wav",
+    "text": "wurɛ",
+    "duration": 5.0,
+    "sample_rate": 48000
+  }
+]

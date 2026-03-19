@@ -1,0 +1,29 @@
+# Core dependencies for Nuer Whisper ASR
+
+# OpenAI Whisper
+openai-whisper
+
+# HuggingFace for fine-tuning
+transformers>=4.30.0
+datasets>=2.14.0
+accelerate>=0.20.0
+
+# PyTorch (install appropriate version for your system)
+# For CPU: torch torchaudio
+# For CUDA: torch torchaudio --index-url https://download.pytorch.org/whl/cu118
+torch
+torchaudio
+
+# Audio processing
+sounddevice
+scipy
+numpy
+
+# Utilities
+tqdm
+sentencepiece
+protobuf
+
+# For mobile deployment later
+# onnxruntime
+# tensorflow-lite (for Android)
