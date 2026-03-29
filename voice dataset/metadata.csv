@@ -1,0 +1,189 @@
+path,transcription
+voice dataset/commands/bër_gua̱mɛ.wav,bër gua̱mɛ
+voice dataset/commands/bitni̱.wav,bitni̱
+voice dataset/commands/ɛŋu_ci̱_bit_ɔ.wav,ɛŋu ci̱ bit ɔ
+voice dataset/commands/gäk_bap.wav,gäk bap
+voice dataset/commands/gäk_ka̱ra̱bɛ.wav,gäk ka̱ra̱bɛ
+voice dataset/commands/gäk_wernyin.wav,gäk wernyin
+voice dataset/commands/jiɛc_rɔ.wav,jiɛc rɔ
+voice dataset/commands/jiɛc_rɔ_du.wav,jiɛc rɔ du
+voice dataset/commands/jiɛrɔ.wav,jiɛrɔ
+voice dataset/commands/jiɛrɔdu.wav,jiɛrɔdu
+voice dataset/commands/lɛp_bap.wav,lɛp bap
+voice dataset/commands/lɛp_wernyin.wav,lɛp wernyin
+voice dataset/commands/nyuri̱.wav,nyuri̱
+voice dataset/commands/nyuri̱_piny.wav,nyuri̱
+voice dataset/commands/wër_gua̱mɔ.wav,wër gua̱mɔ
+voice dataset/commands/wër_gua̱mi̱.wav,wër guami̱
+voice dataset/commands/wër_raar.wav,wër raar
+voice dataset/common objects/bɛ̈k_jani̱.wav,bɛ̈k jani̱
+voice dataset/common objects/cɛ_tööl_ɛn_kɔm.wav,cɛ tööl ɛn kɔm
+voice dataset/common objects/görä_pi̱w_ti̱_maathä.wav,görä pi̱w ti̱ maathä
+voice dataset/common objects/jani̱_ɛn_bɛ̈k.wav,jani̱ ɛn bëk
+voice dataset/common objects/kämni̱_ɣä_kadɛ.wav,kämni̱ ɣä kadɛ
+voice dataset/common objects/kämni̱_ɣä_kubay.wav,kämni̱ ɣä kubay
+voice dataset/common objects/kämni̱_ɣä_talɛpoon.wav,kämni̱ ɣä talɛpoon
+voice dataset/common objects/käni̱_kɛ_kɛn_kiyni̱.wav,käni̱ kɛ kɛn kiyni̱
+voice dataset/common objects/käni̱_kiyni̱.wav,käni̱ ki̱yni̱
+voice dataset/common objects/kɔm_cɛ_tööl.wav,kɔm cɛ tööl
+voice dataset/common objects/kiyni̱_käni̱_kɛ.wav,kiyni̱ käni̱ kɛ
+voice dataset/common objects/meni̱_ɣä_ka̱m_kubay.wav,meni̱ ɣä kam kubay
+voice dataset/common objects/mocä_pi̱w.wav,mocä pi̱w
+voice dataset/common objects/nɛmɛ_ɛ_bok.wav,ɛmɛ ɛ bok
+voice dataset/common objects/nɛmɛ_ɛ_galam.wav,nɛmɛ ɛ galam
+voice dataset/common objects/ŋun_kubay.wav,ŋun kubay
+voice dataset/days and time/ɛ_cäŋdäär.wav,ɛ cäŋdäär
+voice dataset/days and time/ɛ_cäŋkä_di̱.wav,ɛ cäŋkä di̱
+voice dataset/days and time/ɛ_cäŋkä_di̱_ɛn_walɛ.wav,ɛ cäŋkä di̱ ɛn walɛ
+voice dataset/days and time/ɛ_run_waŋ.wav,ɛ run waŋ
+voice dataset/days and time/ɛ_thaa_wälkɛl.wav,ɛ thaa wälkɛl
+voice dataset/days and time/ɛ_thiaŋ.wav,ɛ thiaŋ
+voice dataset/days and time/ɛ_wäär.wav,ɛ wäär
+voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_ba̱kɛliɛn_kä_juɔk.wav,ɛn walɛ ɛ cäŋ in ba̱kɛliɛn kä juɔk
+voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_ba̱rɔwdiɛn_kä_juɔk.wav,ɛn walɛ ɛ cäŋ in ba̱rɔwdiɛn kä juɔk
+voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_dhiecdiɛn_kä_juɔk.wav,ɛn walɛ ɛ cäŋ in dhiecdiɛn kä juɔk
+voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_di̱ɔ̱ɔ̱kdiɛn_kä_juɔk.wav,ɛn walɛ ɛ cäŋ in di̱ɔ̱ɔ̱kdiɛn kä juɔk
+voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_jio̱l_kä_juɔk.wav,ɛn walɛ ɛ cäŋ in ji̱o̱l kä juɔk
+voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_ŋuandiɛn_kä_juɔk.wav,ɛn walɛ ɛ cäŋ in ŋuandiɛn kä juɔk
+voice dataset/days and time/ɛn_walɛ_ɛ_cäŋ_in_rɛwdɛ_kä_juɔk.wav,ɛn walɛ ɛ cäŋ in rɛwdɛ kä juɔk
+voice dataset/greetings and intro/cä_baak_kɛ_mal.wav,cä baak kɛ mal
+voice dataset/greetings and intro/cä_buut_kɛ_mal.wav,cä buut kɛ mal
+voice dataset/greetings and intro/ca̱kɔ_baak_kɛ_mal.wav,ca̱kɔ baak kɛ mal
+voice dataset/greetings and intro/ci̱_baak.wav,ci̱ baak
+voice dataset/greetings and intro/ci̱_baak_i̱di̱.wav,ci̱ baak i̱di̱
+voice dataset/greetings and intro/ci̱_baak_kɛ_mal.wav,ci baak kɛ mal
+voice dataset/greetings and intro/ci̱_buut.wav,ci̱ buut
+voice dataset/greetings and intro/ci̱_buut_i̱di̱.wav,ci̱ buut i̱di̱
+voice dataset/greetings and intro/ci̱_buut_kɛ_mal.wav,ci̱ buut kɛ mal
+voice dataset/greetings and intro/ci̱_nɛy_baak_kɛ_mal.wav,ci̱ nɛy baak kɛ mal
+voice dataset/greetings and intro/ci̱_thiaŋ.wav,ci̱ thiaŋ
+voice dataset/greetings and intro/ci̱_thiaŋ_i̱di̱.wav,ci̱ thiaŋ i̱di̱
+voice dataset/greetings and intro/ci̱_thiaŋ_kɛ_mal.wav,ci̱ thiaŋ kɛ mal
+voice dataset/greetings and intro/cia_baak.wav,cia baak
+voice dataset/greetings and intro/cia_baak_i̱di̱.wav,cia baak i̱di̱
+voice dataset/greetings and intro/cia_baak_kɛ_mal.wav,cia baak kɛ mal
+voice dataset/greetings and intro/cia_buut.wav,cia buut
+voice dataset/greetings and intro/cia_buut_i̱di̱.wav,cia buut i̱di̱
+voice dataset/greetings and intro/cia_buut_kɛ_mal.wav,cia buut kɛ mal
+voice dataset/greetings and intro/cia_thiaŋ.wav,cia thiaŋ
+voice dataset/greetings and intro/cia_thiaŋ_i̱di̱.wav,cia thiaŋ i̱di̱
+voice dataset/greetings and intro/cia_thiaŋ_kɛ_mal.wav,cia thiaŋ kɛ mal
+voice dataset/greetings and intro/ɣänɛ_thi̱n_slow.wav,ɣänɛ thi̱n
+voice dataset/greetings and intro/maalɛ_kɛ_run_waŋ.wav,maalɛ kɛ run waŋ
+voice dataset/greetings and intro/maalɛ_mi̱_di̱i̱t.wav,maalɛ mi̱ di̱i̱t
+voice dataset/greetings and intro/mal_puɔ̱nydä.wav,mal puɔ̱nydä
+voice dataset/greetings and intro/mal_puɔ̱nydu.wav,mal puɔ̱nydu
+voice dataset/numbers and counting/bädäk.wav,bädäk
+voice dataset/numbers and counting/bäkɛl.wav,bäkɛl
+voice dataset/numbers and counting/ba̱kɛl.wav,ba̱kɛl
+voice dataset/numbers and counting/bäŋuan.wav,bäŋuan
+voice dataset/numbers and counting/bärɔw.wav,bärɔw
+voice dataset/numbers and counting/ba̱rɔw.wav,ba̱rɔw
+voice dataset/numbers and counting/dhi̱ec.wav,dhiec
+voice dataset/numbers and counting/di̱ɔ̱k.wav,di̱ɔ̱k
+voice dataset/numbers and counting/kɛl.wav,kɛl
+voice dataset/numbers and counting/ŋuan.wav,ŋuan
+voice dataset/numbers and counting/rɛw.wav,rɛw
+voice dataset/numbers and counting/wäl.wav,wäl
+voice dataset/others/bër.wav,bër
+voice dataset/others/ciek.wav,ciek
+voice dataset/others/ci̱o̱k.wav,ci̱o̱k
+voice dataset/others/dho̱o̱l.wav,dho̱o̱l
+voice dataset/others/duel.wav,duel
+voice dataset/others/gaat.wav,gaat
+voice dataset/others/jiath.wav,jiath
+voice dataset/others/ji̱th.wav,ji̱th
+voice dataset/others/kɔm.wav,kɔm
+voice dataset/others/ley.wav,ley
+voice dataset/others/lɛc.wav,lɛc
+voice dataset/others/mi̱.wav,mi̱
+voice dataset/others/miem.wav,miem
+voice dataset/others/nyal.wav,nyal
+voice dataset/others/ŋuäk.wav,ŋuäk
+voice dataset/others/piw.wav,piw
+voice dataset/others/pi̱w.wav,pi̱w
+voice dataset/others/ro̱l.wav,ro̱l
+voice dataset/others/waŋ.wav,waŋ
+voice dataset/others/wäŋ.wav,wäŋ
+voice dataset/others/wër.wav,wër
+voice dataset/others/wum.wav,wum
+voice dataset/others/wut.wav,wut
+voice dataset/others/wuum.wav,wuum
+voice dataset/personal needs/cä_cuuc.wav,cä cuuc
+voice dataset/personal needs/cän_ji̱_liŋ.wav,cän ji̱ liŋ
+voice dataset/personal needs/cɔl_määthdä.wav,cɔl määthdä
+voice dataset/personal needs/cɛ_ɣä_luaŋ.wav,cɛ ɣä luaŋ
+voice dataset/personal needs/ci̱_buɔthä_näk.wav,ci̱ buɔthä näk
+voice dataset/personal needs/ciëŋä_ɛn_gua̱mɛ.wav,ci̱ëŋä ɛn gua̱mɛ
+voice dataset/personal needs/görä_luäk.wav,görä luäk
+voice dataset/personal needs/känɛ_cop_lɔɔcdä.wav,kanɛ cop lɔɔcdä
+voice dataset/personal needs/känɛ_we_lɔɔcdä.wav,känɛ we lɔɔcdä
+voice dataset/personal needs/näk_buɔthä.wav,näk buɔthä
+voice dataset/personal needs/näk_kɔ̱cä.wav,näk kɔ̱cä
+voice dataset/personal needs/puɔndä_cɛ_li̱w.wav,puɔndä cɛ li̱w
+voice dataset/personal needs/talɛpoondä_cɛ_li̱w.wav,talɛpoondä cɛ li̱w
+voice dataset/personal needs/wa̱a̱_cieŋ.wav,wa̱a̱ cieŋ
+voice dataset/personal needs/yɔ̱tni̱_määthdä_i̱kä.wav,yɔ̱tni̱ määthdä i̱kä
+voice dataset/questions/cɛ_cop_lɔɔcdu.wav,cɛ cop lɔɔcdu
+voice dataset/questions/cɛ_we_lɔɔcdu.wav,cɛ cop lɔɔcdu
+voice dataset/questions/ɛ_leŋu.wav,ɛ leŋu
+voice dataset/questions/ɛ_leŋu_ɛn_nɔmɔ.wav,ɛ leŋu ɛn nɔmɔ
+voice dataset/questions/ɛ_leŋuän_ɛn_nɔmɔ.wav,ɛ leŋuän ɛn nɔmɔ
+voice dataset/questions/ɛ_ŋu_ɣän_ɛn_nɔmɔ.wav,ɛ ŋu ɣän ɛn nɔmɔ
+voice dataset/questions/ɛ_ŋuän_ɛn_nɔmɔ.wav,ɛ ŋuän ɛn nɔmɔ
+voice dataset/questions/ɛ_thaa_di̱.wav,ɛ thaa di̱
+voice dataset/questions/ɛ_thaa_di̱_ɛn_tää.wav,ɛ thaa di̱ ɛn tää
+voice dataset/questions/ɛŋa_cɔɔl_ji̱.wav,ɛŋa cɔɔl ji̱
+voice dataset/questions/ɛŋa_ci̱_yɔ̱a̱t.wav,ɛŋa ci̱ yɔ̱a̱t
+voice dataset/questions/ɛŋa_ci̱o̱t_ɔ.wav,ɛŋa ci̱o̱t ɔ
+voice dataset/questions/ɛŋa_yɔ̱ɔ̱t_ɔ.wav,ɛŋa yɔ̱ɔ̱t ɔ
+voice dataset/questions/ɛŋu.wav,ɛŋu
+voice dataset/questions/ɛŋu_ci̱_jäny_kɛ_jɛ_mɔ.wav,ɛŋu ci̱ jäny kɛ jɛ mɔ
+voice dataset/questions/ɛŋu_cuyi̱_jäny_i̱nɔ.wav,ɛŋu cuyi̱ jäny i̱nɔ
+voice dataset/questions/ɛŋu_ɛn_nɔmɔ.wav,ɛŋu ɛn nɔmɔ
+voice dataset/questions/ɛŋu_jäny_kɛ_ji̱_mɔ.wav,ɛŋu jany kɛ ji̱ mɔ
+voice dataset/questions/ɣän.wav,ɣän
+voice dataset/questions/jɛn.wav,jɛn
+voice dataset/questions/ji̱n.wav,ji̱n
+voice dataset/questions/kuän_bɛ_tuak_i̱nɛy.wav,kuän bɛ tuak i̱nɛy
+voice dataset/questions/liŋi̱_ɣä.wav,liŋi̱ ɣä
+voice dataset/questions/lua̱kä_ji̱.wav,lua̱kä ji̱
+voice dataset/questions/thaa_di̱_clear.wav,thaa di̱
+voice dataset/questions/ti̱i̱_kɛ_run_da̱ŋ_di̱.wav,ti̱i̱ kɛ run da̱ŋ di̱
+voice dataset/questions/ti̱i̱_kɛ_run_di̱.wav,ti̱i̱ kɛ run di̱
+voice dataset/weather and environment/dɛmɛ_ɛn_tää.wav,dɛmɛ ɛn tää
+voice dataset/weather and environment/dɛmɛ_ɛn_tämɛ.wav,dɛmɛ ɛn tämɛ
+voice dataset/weather and environment/lɛp_cieŋ.wav,lɛp cieŋ
+voice dataset/weather and environment/nhial_dɛmɛ.wav,nhial dɛmɛ
+voice dataset/weather and environment/nhial_dɛmɛ_ɛn_tämɛ.wav,nhial dɛmɛ ɛn tämɛ
+voice dataset/weather and environment/raar_kɔ̱cɛ.wav,raar kɔ̱cɛ
+voice dataset/useful systemai testing/bër_can_ruac.wav,bër can ruac
+voice dataset/useful systemai testing/bër_ruacnɛ.wav,bër ruacnɛ
+voice dataset/useful systemai testing/cä_nhɔk.wav,cä nhɔk
+voice dataset/useful systemai testing/caa_jɛn.wav,caa jɛn
+voice dataset/useful systemai testing/cɛ_thuɔ̱k.wav,cɛ thuɔ̱k
+voice dataset/useful systemai testing/cɛ_thuuk.wav,cɛ thuuk
+voice dataset/useful systemai testing/ci̱_lɔcdä_tɛɛth.wav,ci̱ lɔcdä tɛɛth
+voice dataset/useful systemai testing/ci̱_wedi̱.wav,ci̱ wedi̱
+voice dataset/useful systemai testing/ciek_ɛmɛ.wav,ciek ɛmɛ
+voice dataset/useful systemai testing/ëëy.wav,ëëy
+voice dataset/useful systemai testing/ɛ_thuɔ̱k.wav,ɛ thuɔ̱k
+voice dataset/useful systemai testing/ɣää.wav,ɣää
+voice dataset/useful systemai testing/ganmaa.wav,ganmaa
+voice dataset/useful systemai testing/garɛ.wav,garɛ
+voice dataset/useful systemai testing/gayiɛn.wav,gayiɛn
+voice dataset/useful systemai testing/ɣɔ̱ɔ̱n.wav,ɣɔ̱ɔ̱n
+voice dataset/useful systemai testing/ko_päl.wav,ko_päl
+voice dataset/useful systemai testing/kua̱cä_jɛ.wav,kua̱cä jɛ
+voice dataset/useful systemai testing/kua̱jɛ.wav,kua̱jɛ
+voice dataset/useful systemai testing/larɛ_ɛnyɔk.wav,larɛ ɛnyɔk
+voice dataset/useful systemai testing/latdɛ_ɛnyɔk.wav,latdɛ ɛnyɔk
+voice dataset/useful systemai testing/liŋi̱_ɣä_ɛn_tää.wav,liŋi̱ ɣä ɛn tää
+voice dataset/useful systemai testing/lipä.wav,lipä
+voice dataset/useful systemai testing/locɛ.wav,locɛ
+voice dataset/useful systemai testing/ma̱a̱h_bër_liŋ_nɛmɛ.wav,ma̱a̱ bër liŋ nɛmɛ
+voice dataset/useful systemai testing/ma̱a̱h_ji̱n.wav,ma̱a̱ ji̱n
+voice dataset/useful systemai testing/nhɔakä_jɛ.wav,nhɔakä jɛ
+voice dataset/useful systemai testing/nyamɛ.wav,nyamɛ
+voice dataset/useful systemai testing/nyɔkɛ_kɛ_luɔ̱c.wav,nhɔkɛ kɛ luɔ̱c
+voice dataset/useful systemai testing/wurɛ.wav,wurɛ
